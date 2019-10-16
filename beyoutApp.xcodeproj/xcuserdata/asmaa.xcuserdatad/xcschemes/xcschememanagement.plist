@@ -7,7 +7,25 @@
 		<key>beyoutApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>9</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7219128A232E621E00B0DB3B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7219129E232E621F00B0DB3B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>721912A9232E621F00B0DB3B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
